@@ -43,8 +43,11 @@ while True:
     
 ## OUPUT
 CLIENT:
+
 <img width="1600" height="902" alt="WhatsApp Image 2026-05-19 at 11 47 28 AM" src="https://github.com/user-attachments/assets/34e3fad1-dd7d-4f19-bbe4-84771ccde992" />
+
 SERVER:
+
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/63af9c7c-f4ab-46b7-bcd5-5a14b3c43815" />
 
 
